@@ -1,3 +1,1 @@
-document.getElementById("btn").addEventListener("click", () => {
-  alert("Happy Hacktoberfest! 🎉 Keep contributing!");
-});
+console.log("Welcome to Hacktoberfest Demo!");
